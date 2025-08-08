@@ -7,7 +7,7 @@ This project focuses on predicting credit risk for bank loan applications. The g
 
 ## Dataset 
 
-[Data Set](/bankloans.csv)
+[Data Set](/bankloans.csv) | [Source](https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans)
 
 To build the credit risk prediction model, we have used a **bank loan dataset**.
 The file `bankloan.csv` contains the information used to create the model.
