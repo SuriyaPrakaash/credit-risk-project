@@ -5,7 +5,10 @@ This project focuses on predicting credit risk for bank loan applications. The g
 
 ---
 
-## Dataset
+## Dataset 
+
+[Data Set](/bankloans.csv)
+
 To build the credit risk prediction model, we have used a **bank loan dataset**.
 The file `bankloan.csv` contains the information used to create the model.
 
